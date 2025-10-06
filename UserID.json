@@ -12,5 +12,12 @@
     "password": "fahin",
     "expiresAt": "2025-11-02",
     "allowOffline": true
+  },
+  {
+    "id": "947c4ef48d5fbcfc",
+    "username": "discohujur",
+    "password": "discohujur",
+    "expiresAt": "2025-11-30",
+    "allowOffline": true
   }
 ]
